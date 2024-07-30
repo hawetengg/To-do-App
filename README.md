@@ -14,15 +14,15 @@ This is a simple to-do list application that allows you to add, check, edit, and
 *Screenshot showing how to add a new task to the list.*
 
 ### Editing Task Step 1
-![Editing Task Step 1](images/EditTask.png)
+![Editing Task Step 1](Screenshots/EditTask.png)
 *This screenshot shows the initial state of the task list before editing. When the edit button is clicked*
 
 ### Editing Task Step 2
-![Editing Task Step 2](images/EditTask(2).png)
+![Editing Task Step 2](Screenshots/EditTask(2).png)
 *This screenshot illustrates writing the updated version.*
 
 ### Editing Task Step 3
-![Editing Task Step 3](images/EditTask(3).png)
+![Editing Task Step 3](Screenshots/EditTask(3).png)
 *This screenshot demonstrates the task text being modified and saved.*
 
 *Screenshot demonstrating the task editing functionality.*
