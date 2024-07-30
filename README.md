@@ -4,7 +4,7 @@ This is a simple to-do list application that allows you to add, check, edit, and
 ## Screenshots
 
 ### Main Interface
-![Main Interface](images/MainInterface.png)
+![Main Interface](Screenshots/MainInterface.png)
 
 *Screenshot of the main interface*
 
