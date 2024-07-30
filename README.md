@@ -28,7 +28,7 @@ This is a simple to-do list application that allows you to add, check, edit, and
 *Screenshot demonstrating the task editing functionality.*
 
 ### Checking a Task
-![Editing Task Step 3](Screenshots/EditTask(3).png)
+![Checking a Task](Screenshots/MarkAsCheck.png)
 
 *Screenshot illustrating how to mark a task as completed.*
 
