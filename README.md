@@ -9,7 +9,7 @@ This is a simple to-do list application that allows you to add, check, edit, and
 *Screenshot of the main interface*
 
 ### Adding a Task
-![Adding a Task](images/AddTask.png)
+![Adding a Task](Screenshots/AddTask.png)
 
 *Screenshot showing how to add a new task to the list.*
 
